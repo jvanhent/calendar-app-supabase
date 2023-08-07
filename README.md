@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Calendar app with supabase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project offers basic Google Calendar integration.
+Google Authentication via supabase
 
 ## Available Scripts
 
